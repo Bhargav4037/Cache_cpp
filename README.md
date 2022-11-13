@@ -7,7 +7,7 @@ Design of a cache memory using c++ and this cache is performing operations with 
 
 ## Table of values for given inputs
 
-[![Whats-App-Image-2022-11-13-at-10-52-12-PM.jpg](https://i.postimg.cc/D0gxzk0Y/Whats-App-Image-2022-11-13-at-10-52-12-PM.jpg)]
+[![Whats-App-Image-2022-11-13-at-11-07-41-PM.jpg](https://i.postimg.cc/Wzk9cWJh/Whats-App-Image-2022-11-13-at-11-07-41-PM.jpg)]
 
 ## Bar Graph for these inputs 
 
