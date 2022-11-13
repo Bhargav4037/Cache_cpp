@@ -11,4 +11,4 @@ Design of a cache memory using c++ and this cache is performing operations with 
 
 ## Bar Graph for these inputs 
 
-[![Whats-App-Image-2022-11-13-at-9-57-42-PM.jpg](https://i.postimg.cc/g0ZCgQXx/Whats-App-Image-2022-11-13-at-9-57-42-PM.jpg)]
+[![bar-graph.png](https://i.postimg.cc/ryjGKLqM/bar-graph.png)]
