@@ -3,7 +3,7 @@ Design of a cache memory using c++ and this cache is performing operations with 
 
 ## Getting Started
 * Preformed Operations using given inputs.
-* Also other inputs are cache_block_size,cache_size,ways.You can see them in code.
+* Also other inputs are cache_block_size,ways,cache_size.You can see them in code.
 
 ## Table of values for given inputs
 
